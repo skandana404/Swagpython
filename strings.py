@@ -1,0 +1,12 @@
+print("hi \nthere")
+line='skandana is'
+print(line+" cool girl")
+print(line.upper())
+print(line.isupper())
+print(line.islower())
+print(line.upper().isupper())
+print(len(line))
+print(line[0])
+print(line.index('s'))
+print(line.index('dana'))
+print(line.replace('s','e'))
